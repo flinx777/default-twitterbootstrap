@@ -1,5 +1,9 @@
 ** Add GA code in (copy it from their site)
 
+# Update file path on both dev-index.html and .gitignore (for SASS Cache directory)
+
+# HTML Setup Documentation: http://screencast.com/t/r17bvTMT4m
+
 =========================================
 ** Add these .htaccess rules 
 =========================================

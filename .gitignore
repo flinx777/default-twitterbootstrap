@@ -23,6 +23,9 @@ modext.js
 # ignore "special" PHP files 
 test*.php
 
+# ignore SASS cache
+assets/templates/project-name/css/.sass-cache/*
+
 # Specific files to exclude
 core/config/config.inc.php
 cache/
